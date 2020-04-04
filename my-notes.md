@@ -1,0 +1,8 @@
+# Whiteboarding
+- Slow down, and try to write as neatly as possible. This will help you stay organized but also help the interviewer understand what you are doing actually solves the problem.
+- Ask questions. If you are implementing an algorithm, what are the constraints? Memory, runtime, size of inputs, etc. As you are answering make sure to talk through your thought process. The interview is just as much about how you get to an answer as the answer itself.
+- Code how you would normally. One of the most common mistakes is candidates get lost in their answer. By breaking things up appropriately you are less likely to get lost. Example: Don't write a super long function thats hard to read. You wouldn't want to do this in production code.
+- Check your work. Using sample input to verify your work. Or coming up with unit tests to handle unusual inputs and edge cases. This is really important because off by one or other edge cases are very common.
+- Practice. Write a solution to an algorithm on the whiteboard then try running it and if it doesn't work think about what you could have done differently.
+- Do research into the company you are interviewing for so you can have thoughtful answers for why you want to work there.
+- Have fun. Be curious and enjoy the challenge. You'll get more out of the process and come across better to the interviewer. Remember they are also considering if they would want to work with you.
