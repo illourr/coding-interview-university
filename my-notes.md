@@ -24,3 +24,48 @@
 ### Practice!
 - Get a whiteboard for home. It helps a lot.
 - Practicing at home on your whiteboard will keep it from feeling foreign when you have to do it in your interview.
+
+## Demistifying Tech Recruiting
+Process:
+- Recruiter screen
+- Technical screen - 45 minutes at Facebook
+- Onsite interview
+- Interviewer Debrief
+- Candidate Review
+- Offer
+
+### Notes
+- Learn from the experience
+
+## How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft by Sean Lee
+Ways to get an interview:
+- Solve programming challenges online (hacker rank formally known as interview street)
+- Get a referral from someone that works there. This will have a higher chance of getting an interview because referral candidates have a higher likelihood to get hired.
+
+Bibles of coding interviews:
+- Cracking the coding interview
+
+Look up questions that were asked at companies and do those if you find any.
+
+leetcode.com is really good
+hackerrank.com
+topcoder.com
+geeksforgeeks.org
+
+Get used to whiteboard coding!
+
+Find a friend or 2 and do a Mock interview.
+- The day before you meet each one of you solve a different programming problem and make sure you understand it thoroughly.
+- When you meet then one of you acts as the interviewer and the other acts as the interviewee.
+- Discuss high level approach. Annunciate clearly.
+
+The best solution to a problem isn't the fastest one. It's usually the one the interviewer already knows. That is confirmation bias.
+
+Example: If you are asked to print all possible permutations of a string.
+
+You decide to do it iteratively, you may be asked if you can do it another way.
+The best way is actually recursively.
+
+You have to apply.
+
+You don't have to put how many times you failed on your resume.
